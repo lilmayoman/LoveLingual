@@ -144,7 +144,7 @@ questions = [
      "When they compliment you on who you are, not just what you do", "Words of Affirmation",
      "When they reach for your hand or pull you close without thinking", "Physical Touch"),
     
-    ("How excited is MacKenzie for the Red Sox game with Andrew on Friday?",
+    ("How excited is Mackenzie for the Red Sox game with Andrew on Friday?",
      "Literally buzzing with energy about spending the evening together", "Quality Time",
      "About to melt from the overwhelming anticipation", "Physical Touch")
 ]
