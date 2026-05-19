@@ -142,7 +142,11 @@ questions = [
     
     ("Which moment feels most intimate?",
      "When they compliment you on who you are, not just what you do", "Words of Affirmation",
-     "When they reach for your hand or pull you close without thinking", "Physical Touch")
+     "When they reach for your hand or pull you close without thinking", "Physical Touch"),
+    
+    ("How excited is MacKenzie for the Red Sox game with Andrew on Friday?",
+     "Literally buzzing with energy about spending the evening together", "Quality Time",
+     "About to melt from the overwhelming anticipation", "Physical Touch")
 ]
 
 # Show quiz or results
